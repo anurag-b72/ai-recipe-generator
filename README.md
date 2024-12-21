@@ -1,3 +1,4 @@
+
 # Sample Recipe Generator
 
 This repository contains a sample project for a recipe generator application built using Python, FastAPI, Streamlit, Supabase, and Gemini. The application allows users to upload images of items in their refrigerator, analyzes the images, and provides recipe suggestions.
@@ -74,6 +75,16 @@ To start the Streamlit frontend, run:
 ```bash
 streamlit run streamlit_app.py
 ```
+
+---
+
+### 📷 Screen Shots
+
+![Screenshot 1](https://github.com/anurag-b72/ai-recipe-generator/blob/main/images/Screenshot-1.png)
+
+![Screenshot 2](https://github.com/anurag-b72/ai-recipe-generator/blob/main/images/Screenshot-2.png)
+
+![Screenshot 3](https://github.com/anurag-b72/ai-recipe-generator/blob/main/images/Screenshot-3.png)
 
 ---
 
